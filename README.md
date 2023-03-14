@@ -10,10 +10,10 @@ git clone https://github.com/Physis19/DebianBased-postinstall-script.git
 ## Usage
 To run the script you need to allow it to run with 
 ```bash
-chmod +x main.sh
+chmod +x post_install.sh
 ```
 After that, run the script using 
 ```bash
-./main.sh
+./post_install.sh
 ```
 If you don't have the flatpak installed, the script will allow the installation before proceeding 
